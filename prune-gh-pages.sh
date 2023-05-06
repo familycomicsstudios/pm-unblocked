@@ -1,6 +1,6 @@
 #!/bin/bash
 # gh-pages cleanup script: Switches to gh-pages branch, and removes all
-# directories that aren't listed as remote branches
+# directories that aren't listed as remote branches 
 
 function deslash () {
     # Recursively build a string of a directory's parents. E.g.,
