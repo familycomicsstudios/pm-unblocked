@@ -36,7 +36,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: 'https://penguinmod.site/project'
+      url: 'https://familycomicsstudios.github.io/pm-unblocked/'
     runs-on: ubuntu-latest
     needs: build
     steps:
